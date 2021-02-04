@@ -9,7 +9,7 @@ Here is the pipeline for our own split-read based calling process.
 2, pick jumping or split reads
 
 
-Pick reads if there's a large soft clip in this read, where 'large' means the soft-clip part is larger than 20 bp.  The reads should be uniquely mapped to the genome and located in five major chromosomes. 
+Pick reads if there's a large soft clip in this read, where 'large' means the soft-clip part is bigger than 20 bp.  The reads should be uniquely mapped to the genome and located in five major chromosomes. 
 
 python pick_jump_reads.py --i SRR058286.fastq011.sam > SRR058286.fastq011.reads
 

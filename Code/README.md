@@ -1,7 +1,5 @@
 # GeneDuplication
-In-house pipeline of the gene duplication project.
-
-This is the pipeline for our own split-read based calling process.
+Here is the pipeline for our own split-read based calling process.
 
 1, align by novoalign
 

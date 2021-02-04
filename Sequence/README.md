@@ -1,6 +1,6 @@
 Polymorphic Duplication
 
-This is the code and data repository for the polymorphic duplication project entitled "Dosage sensitivity and duplication integrity shapes the landscape of polymorphic duplicates in Drosophila and humans".
+This is the data repository for the polymorphic duplication project entitled "Dosage sensitivity and duplication integrity shapes the landscape of polymorphic duplicates in Drosophila and humans".
 
 Index
 
